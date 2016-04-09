@@ -12,6 +12,7 @@ _ReSharper.*
 *.sdf
 *.opensdf
 *.resharper
+browse.VC.db
 
 snippets/VS2010/Nemerle.VisualStudio/Templates/Projects/Web/WSWebSite/Nemerle*.dll
 snippets/VS2010/Nemerle.VisualStudio/Templates-VS-2012/Projects/Web/WSWebSite/Nemerle*.dll
