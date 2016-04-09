@@ -78,7 +78,7 @@ If you have a clone already: git pull --recurse-submodules
 
   * Visual Studio 2008/2010/2012/2013-preview integration installed by Nemerle installer
   * Nemerle Studio is a free IDE based on Visual Studio Shell (Isolated mode) installed by Nemerle installer if VS Shell was installed
-  * Sharp Develop 3.0 addin can be builded manually. See snippets/sharpdevelop/ReadMe.txt 
+  * Sharp Develop 3.0 addin can be built manually. See snippets/sharpdevelop/ReadMe.txt 
   * See Vim, Emacs, Kate and other editors syntax support in the 'misc' folder
 
 # Repository structure
